@@ -20,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/DivyaRajX/Leetcode/tree/master/1791-richest-customer-wealth) |
+## Math
+|  |
+| ------- |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/DivyaRajX/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 <!---LeetCode Topics End-->
