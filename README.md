@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/DivyaRajX/Leetcode/tree/master/0069-sqrtx) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/DivyaRajX/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Two Pointers
 |  |
@@ -38,4 +39,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/DivyaRajX/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/DivyaRajX/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
