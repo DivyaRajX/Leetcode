@@ -42,4 +42,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/DivyaRajX/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DivyaRajX/Leetcode/tree/master/0069-sqrtx) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DivyaRajX/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/DivyaRajX/Leetcode/tree/master/0801-is-graph-bipartite) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/DivyaRajX/Leetcode/tree/master/0801-is-graph-bipartite) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/DivyaRajX/Leetcode/tree/master/0801-is-graph-bipartite) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/DivyaRajX/Leetcode/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
