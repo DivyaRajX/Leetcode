@@ -15,6 +15,6 @@ class Solution {
                 arr[i] = arr[j];
                 arr[j] = temp;
             }
-        }return c;
+        }return i;
     }
 }
