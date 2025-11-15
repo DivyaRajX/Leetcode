@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DivyaRajX/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DivyaRajX/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/DivyaRajX/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/DivyaRajX/Leetcode/tree/master/0035-search-insert-position) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DivyaRajX/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DivyaRajX/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/DivyaRajX/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/DivyaRajX/Leetcode/tree/master/0075-sort-colors) |
