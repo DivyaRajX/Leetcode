@@ -61,10 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/DivyaRajX/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [2439-longest-cycle-in-a-graph](https://github.com/DivyaRajX/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/DivyaRajX/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [2439-longest-cycle-in-a-graph](https://github.com/DivyaRajX/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -73,8 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/DivyaRajX/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [2439-longest-cycle-in-a-graph](https://github.com/DivyaRajX/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Hash Table
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/DivyaRajX/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Topological Sort
+|  |
+| ------- |
+| [2439-longest-cycle-in-a-graph](https://github.com/DivyaRajX/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
