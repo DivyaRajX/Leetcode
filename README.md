@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DivyaRajX/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DivyaRajX/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/DivyaRajX/Leetcode/tree/master/0162-find-peak-element) |
+| [0219-contains-duplicate-ii](https://github.com/DivyaRajX/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DivyaRajX/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyaRajX/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1580-shuffle-the-array](https://github.com/DivyaRajX/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -81,9 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/DivyaRajX/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyaRajX/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Topological Sort
 |  |
 | ------- |
 | [2439-longest-cycle-in-a-graph](https://github.com/DivyaRajX/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/DivyaRajX/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
