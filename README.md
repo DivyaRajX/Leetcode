@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DivyaRajX/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/DivyaRajX/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DivyaRajX/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0134-gas-station](https://github.com/DivyaRajX/Leetcode/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/DivyaRajX/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DivyaRajX/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/DivyaRajX/Leetcode/tree/master/0162-find-peak-element) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DivyaRajX/Leetcode/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/DivyaRajX/Leetcode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
