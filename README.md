@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/DivyaRajX/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DivyaRajX/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/DivyaRajX/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DivyaRajX/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1580-shuffle-the-array](https://github.com/DivyaRajX/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/DivyaRajX/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/DivyaRajX/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/DivyaRajX/Leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DivyaRajX/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/DivyaRajX/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DivyaRajX/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/DivyaRajX/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Depth-First Search
 |  |
