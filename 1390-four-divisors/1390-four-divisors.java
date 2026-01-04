@@ -14,9 +14,9 @@ class Solution {
                         temp += i/j;
                         temp += j; 
                         count += 2;
+                    }
                 }
-                // System.out.println(j);
-                }
+                if(count > 4) break;
             }
             if(count == 4) ans+= temp;
         }return ans;
