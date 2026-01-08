@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DivyaRajX/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/DivyaRajX/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1390-four-divisors](https://github.com/DivyaRajX/Leetcode/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/DivyaRajX/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DivyaRajX/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1580-shuffle-the-array](https://github.com/DivyaRajX/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/DivyaRajX/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/DivyaRajX/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DivyaRajX/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/DivyaRajX/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/DivyaRajX/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Stack
 |  |
 | ------- |
