@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DivyaRajX/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DivyaRajX/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DivyaRajX/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/DivyaRajX/Leetcode/tree/master/0031-next-permutation) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DivyaRajX/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DivyaRajX/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DivyaRajX/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DivyaRajX/Leetcode/tree/master/0069-sqrtx) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DivyaRajX/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DivyaRajX/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
