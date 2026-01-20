@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/DivyaRajX/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DivyaRajX/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/DivyaRajX/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/DivyaRajX/Leetcode/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Simulation
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DivyaRajX/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DivyaRajX/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/DivyaRajX/Leetcode/tree/master/0283-move-zeroes) |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/DivyaRajX/Leetcode/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DivyaRajX/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DivyaRajX/Leetcode/tree/master/0169-majority-element) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/DivyaRajX/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/DivyaRajX/Leetcode/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Binary Search
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/DivyaRajX/Leetcode/tree/master/0134-gas-station) |
 | [1975-maximum-matrix-sum](https://github.com/DivyaRajX/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/DivyaRajX/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/DivyaRajX/Leetcode/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -222,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DivyaRajX/Leetcode/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3645-maximum-total-from-optimal-activation-order](https://github.com/DivyaRajX/Leetcode/tree/master/3645-maximum-total-from-optimal-activation-order) |
 <!---LeetCode Topics End-->
