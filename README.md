@@ -236,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/DivyaRajX/Leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DivyaRajX/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
