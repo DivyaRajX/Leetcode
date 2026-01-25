@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DivyaRajX/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/DivyaRajX/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/DivyaRajX/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/DivyaRajX/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyaRajX/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DivyaRajX/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/DivyaRajX/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DivyaRajX/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/DivyaRajX/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/DivyaRajX/Leetcode/tree/master/1903-largest-odd-number-in-string) |
