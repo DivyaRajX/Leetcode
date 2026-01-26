@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DivyaRajX/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DivyaRajX/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DivyaRajX/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/DivyaRajX/Leetcode/tree/master/0242-valid-anagram) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/DivyaRajX/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/DivyaRajX/Leetcode/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Binary Search
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DivyaRajX/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/DivyaRajX/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/DivyaRajX/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/DivyaRajX/Leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyaRajX/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DivyaRajX/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Topological Sort
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/DivyaRajX/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/DivyaRajX/Leetcode/tree/master/0242-valid-anagram) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DivyaRajX/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/DivyaRajX/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/DivyaRajX/Leetcode/tree/master/1021-remove-outermost-parentheses) |
