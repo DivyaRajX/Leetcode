@@ -2,7 +2,7 @@ class Solution {
     public int findTheWinner(int n, int k) {
         ArrayList<Integer> ll = new ArrayList<>();
         for(int i=1; i<=n; i++) ll.add(i);
-        System.out.println(ll);
+        // System.out.println(ll);
 
         int currIdx = 0;
         while(ll.size() > 1){
