@@ -23,7 +23,7 @@ class Solution {
         }
         ListNode head1 = helper(curr2);
         if(x>0){
-            ListNode prev = new ListNode(1, head1);
+            ListNode prev = new ListNode(x, head1);
             return prev;
         }
         return head1;
