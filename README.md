@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/DivyaRajX/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DivyaRajX/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/DivyaRajX/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/DivyaRajX/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DivyaRajX/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DivyaRajX/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/DivyaRajX/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DivyaRajX/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/DivyaRajX/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -287,4 +289,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DivyaRajX/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DivyaRajX/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/DivyaRajX/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
