@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/DivyaRajX/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/DivyaRajX/Leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DivyaRajX/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/DivyaRajX/Leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/DivyaRajX/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/DivyaRajX/Leetcode/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Simulation
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/DivyaRajX/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/DivyaRajX/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DivyaRajX/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/DivyaRajX/Leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Matrix
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DivyaRajX/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DivyaRajX/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/DivyaRajX/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/DivyaRajX/Leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Topological Sort
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/DivyaRajX/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/DivyaRajX/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DivyaRajX/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/DivyaRajX/Leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Stack
 |  |
 | ------- |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/DivyaRajX/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/DivyaRajX/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/DivyaRajX/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/DivyaRajX/Leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/DivyaRajX/Leetcode/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Divide and Conquer
 |  |
@@ -307,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/DivyaRajX/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/DivyaRajX/Leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 <!---LeetCode Topics End-->
