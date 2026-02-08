@@ -10,17 +10,11 @@
  */
 class Solution {
     public int getDecimalValue(ListNode head) {
-        ListNode dmy = head;
-        int cnt = 0;
-        int dec = 0;
-        while(dmy.next != null){
-            dmy = dmy.next;
-            cnt++;
-        }
+        int sum = 0;
         while(head != null){
-            if(head.val == 1) dec += (int) Math.pow(2, cnt);
-            cnt--;
+            sum *= 2;
+            sum += head.val;
             head = head.next;
-        }return dec;
+        }return sum;
     }
 }
