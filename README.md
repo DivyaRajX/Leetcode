@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DivyaRajX/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/DivyaRajX/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DivyaRajX/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DivyaRajX/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/DivyaRajX/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/DivyaRajX/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/DivyaRajX/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/DivyaRajX/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/DivyaRajX/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -257,11 +259,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DivyaRajX/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DivyaRajX/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Geometry
