@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/DivyaRajX/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/DivyaRajX/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/DivyaRajX/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DivyaRajX/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/DivyaRajX/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/DivyaRajX/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DivyaRajX/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DivyaRajX/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/DivyaRajX/Leetcode/tree/master/0134-gas-station) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DivyaRajX/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/DivyaRajX/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/DivyaRajX/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/DivyaRajX/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DivyaRajX/Leetcode/tree/master/0242-valid-anagram) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DivyaRajX/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/DivyaRajX/Leetcode/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/DivyaRajX/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/DivyaRajX/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DivyaRajX/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/DivyaRajX/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
