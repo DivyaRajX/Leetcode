@@ -15,7 +15,7 @@
  */
 class Solution {
     public int maxDepth(TreeNode root) {
-        return iterTraversal(root);
+        return recursiveTraversal(root);
     }
 
     static int iterTraversal(TreeNode root){
