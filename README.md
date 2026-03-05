@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DivyaRajX/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DivyaRajX/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/DivyaRajX/Leetcode/tree/master/0242-valid-anagram) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/DivyaRajX/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/DivyaRajX/Leetcode/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Binary Search
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/DivyaRajX/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/DivyaRajX/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2439-longest-cycle-in-a-graph](https://github.com/DivyaRajX/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DivyaRajX/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/DivyaRajX/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2439-longest-cycle-in-a-graph](https://github.com/DivyaRajX/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Union Find
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DivyaRajX/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DivyaRajX/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DivyaRajX/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/DivyaRajX/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/DivyaRajX/Leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Topological Sort
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DivyaRajX/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
@@ -288,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DivyaRajX/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Geometry
