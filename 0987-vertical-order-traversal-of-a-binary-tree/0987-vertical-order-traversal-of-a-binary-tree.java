@@ -19,40 +19,40 @@ class Solution {
         Queue<Pair> q = new LinkedList<>();
         q.offer(new Pair(root, 0, 0));
         while(!q.isEmpty()){
-            Pair p = q.poll();
-            TreeNode temp = p.node;
-            int lev = p.level;
-            int vert = p.vertical;
+            Pair pr = q.poll();
+            TreeNode node = pr.node;
+            int row = pr.row;
+            int col = pr.col;
 
-            map.putIfAbsent(vert, new TreeMap<>());
-            map.get(vert).putIfAbsent(lev, new PriorityQueue<>());
-            map.get(vert).get(lev).add(temp.val);
+            map.putIfAbsent(row, new TreeMap<>());
+            map.get(row).putIfAbsent(col, new PriorityQueue<>());
+            map.get(row).get(col).add(node.val);
 
-            if(temp.left != null) q.offer(new Pair(temp.left, lev+1, vert-1));
-            if(temp.right != null)q.offer(new Pair(temp.right, lev+1, vert+1));
+            if(node.left != null) q.offer(new Pair(node.left, row-1, col+1));
+            if(node.right != null) q.offer(new Pair(node.right, row+1, col+1));
         }
 
         List<List<Integer>> ans = new ArrayList<>();
-        for(TreeMap<Integer, PriorityQueue<Integer>> tq : map.values()){
-            List<Integer> col = new ArrayList<>();
-            for(PriorityQueue<Integer> pq : tq.values()){
+        for(TreeMap<Integer, PriorityQueue<Integer>> m : map.values()){
+            List<Integer> ls = new ArrayList<>();
+            for(PriorityQueue<Integer> pq : m.values()){
                 while(!pq.isEmpty()){
-                    col.add(pq.poll());
+                    ls.add(pq.poll());
                 }
-            }ans.add(col);
+            }ans.add(ls);
         }
         return ans;
     }
+}
 
-    class Pair{
-        TreeNode node;
-        int level;
-        int vertical;
+class Pair{
+    TreeNode node;
+    int row;
+    int col;
 
-        public Pair(TreeNode node, int level, int vertical){
-            this.node = node;
-            this.level = level;
-            this.vertical = vertical;
-        }
+    Pair(TreeNode node, int row, int col){
+        this.node = node;
+        this.row = row;
+        this.col = col;
     }
 }
