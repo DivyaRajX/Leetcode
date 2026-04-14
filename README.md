@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/DivyaRajX/Leetcode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/DivyaRajX/Leetcode/tree/master/0279-perfect-squares) |
 | [0494-target-sum](https://github.com/DivyaRajX/Leetcode/tree/master/0494-target-sum) |
+| [0583-delete-operation-for-two-strings](https://github.com/DivyaRajX/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/DivyaRajX/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DivyaRajX/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/DivyaRajX/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DivyaRajX/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/DivyaRajX/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/DivyaRajX/Leetcode/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/DivyaRajX/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/DivyaRajX/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DivyaRajX/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/DivyaRajX/Leetcode/tree/master/0796-rotate-string) |
