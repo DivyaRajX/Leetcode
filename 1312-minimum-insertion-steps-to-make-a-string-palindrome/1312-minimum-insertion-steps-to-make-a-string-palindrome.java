@@ -1,19 +1,26 @@
 class Solution {
-    int[][] dp;
+    Integer dp[][];
+
     public int minInsertions(String s) {
         int n = s.length();
-        dp = new int[n+1][n+1];
-        String rev = new StringBuilder(s).reverse().toString();
-        return lcs(s, rev);
+        if(n<=1) return 0;
+        dp = new Integer[n][n];
+        return solve(s,0,n-1);
     }
 
-    int lcs(String s, String rev){
-        int n = s.length();
-        for(int i=1; i<n+1; i++){
-            for(int j=1; j<n+1; j++){
-                if(s.charAt(i-1) == rev.charAt(j-1)) dp[i][j] = 1+dp[i-1][j-1];
-                else dp[i][j] = Math.max(dp[i-1][j], dp[i][j-1]);
-            }
-        }return n-dp[n][n];
+    public int solve(String s, int i, int j) {
+        if (i >= j) {
+            return 0;
+        }
+
+        if (dp[i][j] != null) {
+            return dp[i][j];
+        }
+
+        if (s.charAt(i) == s.charAt(j)) {
+            return dp[i][j] = solve(s, i + 1, j - 1);
+        } else {
+            return dp[i][j] = 1 + Math.min(solve(s, i, j - 1), solve(s, i + 1, j));
+        }
     }
 }
