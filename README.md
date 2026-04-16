@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/DivyaRajX/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/DivyaRajX/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DivyaRajX/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DivyaRajX/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/DivyaRajX/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/DivyaRajX/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/DivyaRajX/Leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/DivyaRajX/Leetcode/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DivyaRajX/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/DivyaRajX/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DivyaRajX/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DivyaRajX/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/DivyaRajX/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/DivyaRajX/Leetcode/tree/master/1903-largest-odd-number-in-string) |
