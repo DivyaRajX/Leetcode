@@ -1,11 +1,13 @@
 class Solution {
     public int[] twoSum(int[] arr, int target) {
-        int i=0, j=arr.length-1; 
-        while(i<j){
-            if(arr[i]+arr[j] == target) return new int[]{i+1, j+1};
-            else if(arr[i]+arr[j] < target) i++;
-            else j--;
+        int pt1 = 0, pt2 = arr.length-1;
+        while(pt1 <= pt2){
+            int sum = arr[pt1]+arr[pt2];
+            if(sum == target) break;
+            else if(sum < target) pt1++;
+            else pt2--;
         }
-        return new int[]{0,0};
+
+        return new int[]{++pt1, ++pt2};
     }
 }
