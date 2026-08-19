@@ -20,8 +20,8 @@ class Solution {
             }
             else if(s.charAt(i) == '(') suf[i] = --cnt;
         }
-        System.out.println(Arrays.toString(pre));
-        System.out.println(Arrays.toString(suf));
+        // System.out.println(Arrays.toString(pre));
+        // System.out.println(Arrays.toString(suf));
         for(int i=0; i<n; i++){
             if(pre[i] >= 0 && suf[i] >= 0) ans += s.charAt(i);
         }
