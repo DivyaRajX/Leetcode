@@ -9,9 +9,9 @@ class MinStack {
             st.push(new int[]{val, val});
             return;
         }
+
         int min = Math.min(getMin(), val);
-        st.push(new int[]{val, min}); 
-        
+        st.push(new int[]{val, min});
     }
     
     public void pop() {
@@ -23,14 +23,14 @@ class MinStack {
     }
     
     public int getMin() {
-        return st.peek()[1];
+        return  st.peek()[1];
     }
 }
 
 /**
  * Your MinStack object will be instantiated and called as such:
  * MinStack obj = new MinStack();
- * obj.push(val);
+ * obj.push(value);
  * obj.pop();
  * int param_3 = obj.top();
  * int param_4 = obj.getMin();
