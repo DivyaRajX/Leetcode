@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/DivyaRajX/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/DivyaRajX/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/DivyaRajX/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/DivyaRajX/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/DivyaRajX/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/DivyaRajX/Leetcode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/DivyaRajX/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/DivyaRajX/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/DivyaRajX/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/DivyaRajX/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/DivyaRajX/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/DivyaRajX/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DivyaRajX/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DivyaRajX/Leetcode/tree/master/0169-majority-element) |
@@ -460,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/DivyaRajX/Leetcode/tree/master/0584-find-customer-referee) |
 | [1148-article-views-i](https://github.com/DivyaRajX/Leetcode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/DivyaRajX/Leetcode/tree/master/1683-invalid-tweets) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/DivyaRajX/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
