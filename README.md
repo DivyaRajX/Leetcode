@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/DivyaRajX/Leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/DivyaRajX/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/DivyaRajX/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0456-132-pattern](https://github.com/DivyaRajX/Leetcode/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/DivyaRajX/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/DivyaRajX/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DivyaRajX/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DivyaRajX/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/DivyaRajX/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyaRajX/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0456-132-pattern](https://github.com/DivyaRajX/Leetcode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DivyaRajX/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/DivyaRajX/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DivyaRajX/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/DivyaRajX/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/DivyaRajX/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/DivyaRajX/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0456-132-pattern](https://github.com/DivyaRajX/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/DivyaRajX/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/DivyaRajX/Leetcode/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/DivyaRajX/Leetcode/tree/master/0901-online-stock-span) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/DivyaRajX/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DivyaRajX/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DivyaRajX/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0456-132-pattern](https://github.com/DivyaRajX/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/DivyaRajX/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/DivyaRajX/Leetcode/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/DivyaRajX/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -480,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/DivyaRajX/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/DivyaRajX/Leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
