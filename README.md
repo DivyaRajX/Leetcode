@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/DivyaRajX/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/DivyaRajX/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/DivyaRajX/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/DivyaRajX/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DivyaRajX/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DivyaRajX/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/DivyaRajX/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/DivyaRajX/Leetcode/tree/master/0078-subsets) |
 | [0260-single-number-iii](https://github.com/DivyaRajX/Leetcode/tree/master/0260-single-number-iii) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/DivyaRajX/Leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Counting
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/DivyaRajX/Leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/DivyaRajX/Leetcode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/DivyaRajX/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/DivyaRajX/Leetcode/tree/master/0494-target-sum) |
 ## Database
