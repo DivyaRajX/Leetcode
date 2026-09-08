@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DivyaRajX/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/DivyaRajX/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DivyaRajX/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/DivyaRajX/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DivyaRajX/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/DivyaRajX/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/DivyaRajX/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/DivyaRajX/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/DivyaRajX/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1791-richest-customer-wealth](https://github.com/DivyaRajX/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1975-maximum-matrix-sum](https://github.com/DivyaRajX/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/DivyaRajX/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DivyaRajX/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/DivyaRajX/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DivyaRajX/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/DivyaRajX/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/DivyaRajX/Leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/DivyaRajX/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/DivyaRajX/Leetcode/tree/master/0091-decode-ways) |
 | [0205-isomorphic-strings](https://github.com/DivyaRajX/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/DivyaRajX/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/DivyaRajX/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DivyaRajX/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/DivyaRajX/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/DivyaRajX/Leetcode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/DivyaRajX/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/DivyaRajX/Leetcode/tree/master/0494-target-sum) |
 ## Database
