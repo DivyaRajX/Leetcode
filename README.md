@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/DivyaRajX/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2058-concatenation-of-array](https://github.com/DivyaRajX/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/DivyaRajX/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/DivyaRajX/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/DivyaRajX/Leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DivyaRajX/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/DivyaRajX/Leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DivyaRajX/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DivyaRajX/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/DivyaRajX/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/DivyaRajX/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/DivyaRajX/Leetcode/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Binary Search
 |  |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/DivyaRajX/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/DivyaRajX/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/DivyaRajX/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/DivyaRajX/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/DivyaRajX/Leetcode/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/DivyaRajX/Leetcode/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Divide and Conquer
