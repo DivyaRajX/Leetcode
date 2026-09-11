@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/DivyaRajX/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/DivyaRajX/Leetcode/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/DivyaRajX/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/DivyaRajX/Leetcode/tree/master/0860-lemonade-change) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DivyaRajX/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DivyaRajX/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/DivyaRajX/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/DivyaRajX/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DivyaRajX/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/DivyaRajX/Leetcode/tree/master/0134-gas-station) |
+| [0860-lemonade-change](https://github.com/DivyaRajX/Leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DivyaRajX/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/DivyaRajX/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/DivyaRajX/Leetcode/tree/master/1975-maximum-matrix-sum) |
