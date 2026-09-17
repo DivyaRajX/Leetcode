@@ -1,23 +1,16 @@
-import java.util.*;
 class Solution {
+    List<Integer> ans; 
     public List<Integer> lexicalOrder(int n) {
-       List<Integer> ll = new ArrayList<>();
-		print(n,0,ll);
-        List<Integer> sl = ll.subList(1,ll.size());
-		return sl;
+       ans = new ArrayList<>();
+       print(0, n);
+       return ans.subList(1, ans.size());
     }
-     public static void print(int n, int curr, List<Integer> ll) {
-		// -ve recursive call
-		// Remember : Always put recursive function at the top
-		if(curr > n)
-			return;
-		ll.add(curr);
-		int i = 0;
-		if(curr == 0)
-			i = 1;
-		
-		for(; i<=9; i++) {
-			print(n, curr*10+i,ll);
-		}
-	}
+
+    void print(int curr, int n){
+        if(curr > n) return;
+        ans.add(curr);
+        int i=0;
+        if(curr == 0) i=1;
+        for(;i<=9; i++) print(curr*10+i, n);
+    }
 }
